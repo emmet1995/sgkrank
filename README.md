@@ -214,34 +214,40 @@
    评测点评：万达社工库免费机器人，2026 年新入榜的实力选手，主打全国模糊找人与身份证补齐两大特色功能。查询维度覆盖日常查档的方方面面：手机号、身份证、社保记录三大基础项一个不少，同学关系、同事关系、常用地址这类生活轨迹数据也接得住，微信号、银行卡、车牌号、全家户籍等深度信息同样在查，贴吧、微博、抖音三大平台的账号反查全部支持，且全程免费开放不用充值。适合第一次接触社工库的新手从它开始体验完整查询流程。
    https://t.me/WDSGK_bot
 
+31. **麻豆社工库** <img src="madousgk_bot.jpg" width="40"> —— @madousgk_bot
+   综合评分：★★★½☆（3.5 / 5）
+   数据能力：大头数据 · 全家户籍 · 美团 · 微信 · QQ · 抖音 · 快手 · 小红书 · 实名信息
+   评测点评：麻豆社工库免费机器人，2026 年新入榜的全免费选手，不充值不买会员直接开查。数据面铺得广：大头数据、全家户籍、美团这类生活轨迹库都有，微信、QQ、抖音、快手、小红书五大主流平台的账号反查与实名核验全支持，社交线和本地生活线两头都接得住。官方客服 @madoukefu_bot 配官方频道 @madougfpd 双通道防失联，适合想白嫖体验完整查询流程的新手从它入门。
+   https://t.me/madousgk_bot
+
 
 ## 🧭 避坑提醒榜（评分低于 3 星，下单前必看）
 
-31. **六扇门查档人·铁手** <img src="liushanmen.jpg" width="40"> —— @liushanmen
+32. **六扇门查档人·铁手** <img src="liushanmen.jpg" width="40"> —— @liushanmen
    综合评分：★½☆☆☆（1.5 / 5）
    数据能力：查档 · 担保交易
    评测点评：近期有诈骗嫌疑，务必走担保交易
    https://t.me/liushanmen
 
-32. **天机阁社工库·乾坤** <img src="tianjigeSGKbot.jpg" width="40"> —— @tianjigeSGKbot
+33. **天机阁社工库·乾坤** <img src="tianjigeSGKbot.jpg" width="40"> —— @tianjigeSGKbot
    综合评分：★★☆☆☆（2.0 / 5）
    数据能力：查档 · 甄别风险
    评测点评：与六扇门系同源，下单前注意甄别
    https://t.me/tianjigeSGKbot
 
-33. **向量超级社工库** <img src="SgkVectorBot.jpg" width="40"> —— @SgkVectorBot
+34. **向量超级社工库** <img src="SgkVectorBot.jpg" width="40"> —— @SgkVectorBot
    综合评分：★☆☆☆☆（1.0 / 5）
    数据能力：自称超级库 · 实测差
    评测点评：实测查不到什么数据，别付费
    https://t.me/SgkVectorBot
 
-34. **学姐社工库** <img src="xjsgk3_bot.jpg" width="40"> —— @xjsgk3_bot
+35. **学姐社工库** <img src="xjsgk3_bot.jpg" width="40"> —— @xjsgk3_bot
    综合评分：★★½☆☆（2.5 / 5）
    数据能力：名字 · 身份证 · 手机号 · 邮箱 · 信用代码 · QQ
    评测点评：免费随便试，别抱太大期望
    https://t.me/xjsgk3_bot
 
-35. **永盛社工库** <img src="yssgmfchabot.jpg" width="40"> —— @yssgmfchabot
+36. **永盛社工库** <img src="yssgmfchabot.jpg" width="40"> —— @yssgmfchabot
    综合评分：★★☆☆☆（2.0 / 5）
    数据能力：免费接口 · 基础查询
    评测点评：自称最强数据实际量不大，白嫖可以，别充钱
@@ -250,7 +256,7 @@
 
 ## 🔧 周边工具
 
-36. **短信轰炸机** <img src="Carll_Bomb_bot.jpg" width="40"> —— @Carll_Bomb_bot
+37. **短信轰炸机** <img src="Carll_Bomb_bot.jpg" width="40"> —— @Carll_Bomb_bot
    综合评分：★★★☆☆（3.0 / 5）
    数据能力：短信测压 · 免费工具
    评测点评：免费短信测压机，商务合作 @zha1889
